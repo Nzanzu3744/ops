@@ -96,4 +96,3 @@ if(empty($_GET['RechClient'])){
     listeClient();
               
 }
- -->
